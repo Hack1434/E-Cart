@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="navSection">
       <Link to='/' className="custom-link">
   <div className="title">
-    <h2>E-SHOP</h2>
+    <h2>E-CART</h2>
   </div>
 </Link>
 
